@@ -14,6 +14,7 @@ pub fn count(items: []const u8, x: u8) u32 {
     return result;
 }
 
+/// Whether 'a <= x <= b' 
 pub fn betweenIncl(x: u32, a: u32, b: u32) bool {
     return (a <= x and x <= b);
 }

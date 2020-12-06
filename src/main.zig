@@ -8,5 +8,6 @@ pub fn main() anyerror!void {
     try aoc.day1();
     try aoc.day2();
     try aoc.day3();
+    try aoc.day4();
 }
 
