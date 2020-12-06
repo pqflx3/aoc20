@@ -1,1 +1,3 @@
 zig-cache/*
+src/aoc/zig-cache/
+src/zig-cache/
